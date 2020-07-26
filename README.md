@@ -22,14 +22,14 @@
 
 #### 大三上
 
-- [数据库原理及应用](https://github.com/2017IOTrepo/JuniorLessons/tree/master/%E6%95%B0%E6%8D%AE%E5%BA%93)
-- [软件工程](https://github.com/2017IOTrepo/JuniorLessons/tree/master/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
-- [操作系统](https://github.com/2017IOTrepo/JuniorLessons/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
-- [物联网组网技术](https://github.com/2017IOTrepo/JuniorLessons/tree/master/%E7%89%A9%E8%81%94%E7%BD%91%E7%BB%84%E7%BD%91%E6%8A%80%E6%9C%AF)
-- [物联网组网技术实践](https://github.com/2017IOTrepo/JuniorLessons/tree/master/%E7%89%A9%E8%81%94%E7%BD%91%E7%BB%84%E7%BD%91%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5)
-- [RFID原理及应用](https://github.com/2017IOTrepo/JuniorLessons/tree/master/RFID%E5%8E%9F%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8)
-- [数值分析](https://github.com/2017IOTrepo/JuniorLessons/tree/master/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90)
-- [Java高级程序设计(JavaEE)](https://github.com/2017IOTrepo/JuniorLessons/tree/master/Java%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1(JavaEE))
+- [数据库原理及应用(wrj)](https://github.com/2017IOTrepo/JuniorLessons/tree/master/%E6%95%B0%E6%8D%AE%E5%BA%93)
+- [软件工程(jzy)](https://github.com/2017IOTrepo/JuniorLessons/tree/master/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
+- [操作系统(wlf)](https://github.com/2017IOTrepo/JuniorLessons/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+- [物联网组网技术(adx)](https://github.com/2017IOTrepo/JuniorLessons/tree/master/%E7%89%A9%E8%81%94%E7%BD%91%E7%BB%84%E7%BD%91%E6%8A%80%E6%9C%AF)
+- [物联网组网技术实践(adx)](https://github.com/2017IOTrepo/JuniorLessons/tree/master/%E7%89%A9%E8%81%94%E7%BD%91%E7%BB%84%E7%BD%91%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5)
+- [RFID原理及应用(qgz)](https://github.com/2017IOTrepo/JuniorLessons/tree/master/RFID%E5%8E%9F%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8)
+- [数值分析(qpl)](https://github.com/2017IOTrepo/JuniorLessons/tree/master/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90)
+- [Java高级程序设计(JavaEE)(zjh)](https://github.com/2017IOTrepo/JuniorLessons/tree/master/Java%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1(JavaEE))
 
 #### 大三下
 
