@@ -17,7 +17,7 @@
 - [计算机网络()](https://github.com/2017IOTrepo/Sophomore/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
 - [面向对象程序设计C++(lhw)](https://github.com/2017IOTrepo/Sophomore/tree/master/C%2B%2B)
 - [Java程序基础设计(xfg)](https://github.com/2017IOTrepo/Sophomore/tree/master/java)
-- 算法分析与设计(lzj)
+- [算法分析与设计(lzj)](https://github.com/2017IOTrepo/SophomoreLessons/tree/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1)
 - [单片机原理及应用(xzy)](https://github.com/2017IOTrepo/Sophomore/tree/master/%E5%8D%95%E7%89%87%E6%9C%BA)
 
 #### 大三上
