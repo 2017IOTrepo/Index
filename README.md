@@ -34,8 +34,8 @@
 #### 大三下
 
 - 嵌入式开发技术
-- Android开发
-- 物联网工程技术基础
+- [Android开发](https://github.com/2017IOTrepo/AndroidMoocExamples)
+- [物联网工程技术基础](https://github.com/2017IOTrepo/IOTBP)
 - 数据科学与大数据
 
 #### 大四上
@@ -44,7 +44,7 @@
 
 #### 大四下
 
-
+- 毕业设计
 
 ### 如果想要为这个仓库贡献怎么办
 
